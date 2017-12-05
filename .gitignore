@@ -93,7 +93,8 @@ venv.bak/
 # Eclipse setting and PTP sync directory
 .settings/
 .ptp-sync/
-.ptp-sync-folder/
+app/.ptp-sync-folder
+app/templates/.ptp-sync-folder
 
 # Spyder project settings
 .spyderproject
