@@ -10,3 +10,9 @@
 
 * Known high severity security vulnerability detected in Jinja2 < 2.10.1 defined in requirements.txt.
 * requirements.txt update suggested: Jinja2 ~> 2.10.1.
+
+## GitHub Security update - 2019.04.27
+
+* Known moderate severity security vulnerability detected in flask < 0.12.3 defined in requirements.txt.
+* requirements.txt update suggested: flask ~> 0.12.3.
+ 
