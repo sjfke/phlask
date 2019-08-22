@@ -6,6 +6,11 @@
 
 # ChangeLog
 
+## GitHub Securtity update - 2019.08.22
+
+* Convert project to pipenv and remove hard-coded versions
+* Known high severity security vulnerability detected in werkzeug < 0.15.3 
+
 ## GitHub Securtity update - 2019.04.12
 
 * Known high severity security vulnerability detected in Jinja2 < 2.10.1 defined in requirements.txt.
